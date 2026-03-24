@@ -17,13 +17,13 @@ Three mechanisms create strategic tension:
 
 ## Dependencies
 
-Built on the [Mieza Clojure SDK](https://github.com/tacktechai/mieza-clj-sdk) (`ExtensiveFormGame` protocol + compensation domain entities).
+Built on the [Mieza Clojure SDK](https://github.com/mieza-ai/mieza-clj-sdk) (`ExtensiveFormGame` protocol + compensation domain entities).
 
 ## Usage
 
 ```clojure
 ;; deps.edn
-{:deps {mieza/game-compensation {:git/url "https://github.com/tacktechai/mieza-game-compensation.git"
+{:deps {mieza/game-compensation {:git/url "https://github.com/mieza-ai/mieza-game-compensation.git"
                                   :git/sha "..."}}}
 ```
 
