@@ -1,0 +1,7 @@
+{:id :compensation-game
+ :name "Compensation Negotiation"
+ :description "Compensation alignment game: solve for which compensation structure properly incentivizes a worker to exert effort on behalf of the firm, given hidden information about worker type (risk preference, outside options, effort cost)."
+ :player-counts [2 3 4 5]
+ :perfect-information? false
+ :schema-ns josh.game.library.compensation-game.schema
+ :game-ns josh.game.library.compensation-game.core}
