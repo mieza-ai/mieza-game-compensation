@@ -1,0 +1,4 @@
+* text=auto
+*.clj text
+*.edn text
+*.md text
